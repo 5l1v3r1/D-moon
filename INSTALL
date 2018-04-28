@@ -1,0 +1,3 @@
+apt-get install mingw-w64 -y
+apt-get install pyinstaller
+
